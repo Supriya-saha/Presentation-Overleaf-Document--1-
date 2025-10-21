@@ -1,543 +1,378 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.16)  21 OCT 2025 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  21 OCT 2025 23:44
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+**d:/Supriya/Presentation-Overleaf-Document--1-/main.tex
+(d:/Supriya/Presentation-Overleaf-Document--1-/main.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(E:\apps\mitek\tex/latex/beamer\beamer.cls
 Document Class: beamer 2025/08/13 v3.76 A class for typesetting presentations
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.
-sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count187
+(E:\apps\mitek\tex/latex/beamer\beamerbasemodes.sty (E:\apps\mitek\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count275
 )
-\beamer@tempbox=\box51
-\beamer@tempcount=\count188
-\c@beamerpauses=\count189
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode
-.sty
-\beamer@slideinframe=\count190
-\beamer@minimum=\count191
-\beamer@decode@box=\box52
+\beamer@tempbox=\box53
+\beamer@tempcount=\count276
+\c@beamerpauses=\count277
+ (E:\apps\mitek\tex/latex/beamer\beamerbasedecode.sty
+\beamer@slideinframe=\count278
+\beamer@minimum=\count279
+\beamer@decode@box=\box54
 )
-\beamer@commentbox=\box53
-\beamer@modecount=\count192
+\beamer@commentbox=\box55
+\beamer@modecount=\count280
+) (E:\apps\mitek\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
-\headdp=\dimen140
-\footheight=\dimen141
-\sidebarheight=\dimen142
-\beamer@tempdim=\dimen143
-\beamer@finalheight=\dimen144
-\beamer@animht=\dimen145
-\beamer@animdp=\dimen146
-\beamer@animwd=\dimen147
-\beamer@leftmargin=\dimen148
-\beamer@rightmargin=\dimen149
-\beamer@leftsidebar=\dimen150
-\beamer@rightsidebar=\dimen151
-\beamer@boxsize=\dimen152
-\beamer@vboxoffset=\dimen153
-\beamer@descdefault=\dimen154
-\beamer@descriptionwidth=\dimen155
-\beamer@lastskip=\skip48
-\beamer@areabox=\box54
-\beamer@animcurrent=\box55
-\beamer@animshowbox=\box56
-\beamer@sectionbox=\box57
-\beamer@logobox=\box58
-\beamer@linebox=\box59
-\beamer@sectioncount=\count193
-\beamer@subsubsectionmax=\count194
-\beamer@subsectionmax=\count195
-\beamer@sectionmax=\count196
-\beamer@totalheads=\count197
-\beamer@headcounter=\count198
-\beamer@partstartpage=\count199
-\beamer@sectionstartpage=\count266
-\beamer@subsectionstartpage=\count267
-\beamer@animationtempa=\count268
-\beamer@animationtempb=\count269
-\beamer@xpos=\count270
-\beamer@ypos=\count271
-\beamer@ypos@offset=\count272
-\beamer@showpartnumber=\count273
-\beamer@currentsubsection=\count274
-\beamer@coveringdepth=\count275
-\beamer@sectionadjust=\count276
-\beamer@toclastsection=\count277
-\beamer@tocsectionnumber=\count278
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoption
-s.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+\headdp=\dimen148
+\footheight=\dimen149
+\sidebarheight=\dimen150
+\beamer@tempdim=\dimen151
+\beamer@finalheight=\dimen152
+\beamer@animht=\dimen153
+\beamer@animdp=\dimen154
+\beamer@animwd=\dimen155
+\beamer@leftmargin=\dimen156
+\beamer@rightmargin=\dimen157
+\beamer@leftsidebar=\dimen158
+\beamer@rightsidebar=\dimen159
+\beamer@boxsize=\dimen160
+\beamer@vboxoffset=\dimen161
+\beamer@descdefault=\dimen162
+\beamer@descriptionwidth=\dimen163
+\beamer@lastskip=\skip49
+\beamer@areabox=\box56
+\beamer@animcurrent=\box57
+\beamer@animshowbox=\box58
+\beamer@sectionbox=\box59
+\beamer@logobox=\box60
+\beamer@linebox=\box61
+\beamer@sectioncount=\count281
+\beamer@subsubsectionmax=\count282
+\beamer@subsectionmax=\count283
+\beamer@sectionmax=\count284
+\beamer@totalheads=\count285
+\beamer@headcounter=\count286
+\beamer@partstartpage=\count287
+\beamer@sectionstartpage=\count288
+\beamer@subsectionstartpage=\count289
+\beamer@animationtempa=\count290
+\beamer@animationtempb=\count291
+\beamer@xpos=\count292
+\beamer@ypos=\count293
+\beamer@ypos@offset=\count294
+\beamer@showpartnumber=\count295
+\beamer@currentsubsection=\count296
+\beamer@coveringdepth=\count297
+\beamer@sectionadjust=\count298
+\beamer@toclastsection=\count299
+\beamer@tocsectionnumber=\count300
+ (E:\apps\mitek\tex/latex/beamer\beamerbaseoptions.sty (E:\apps\mitek\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 ))
-\beamer@paperwidth=\skip49
-\beamer@paperheight=\skip50
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+\beamer@paperwidth=\skip50
+\beamer@paperheight=\skip51
+ (E:\apps\mitek\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (E:\apps\mitek\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count279
-\Gm@cntv=\count280
-\c@Gm@tempcnt=\count281
-\Gm@bindingoffset=\dimen156
-\Gm@wd@mp=\dimen157
-\Gm@odd@mp=\dimen158
-\Gm@even@mp=\dimen159
-\Gm@layoutwidth=\dimen160
-\Gm@layoutheight=\dimen161
-\Gm@layouthoffset=\dimen162
-\Gm@layoutvoffset=\dimen163
+\Gm@cnth=\count301
+\Gm@cntv=\count302
+\c@Gm@tempcnt=\count303
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
 \Gm@dimlist=\toks18
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
-y
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common.tex
+ (E:\apps\mitek\tex/latex/geometry\geometry.cfg)) (E:\apps\mitek\tex/latex/pgf/math\pgfmath.sty (E:\apps\mitek\tex/latex/pgf/utilities\pgfrcs.sty (E:\apps\mitek\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen164
-\pgfutil@tempdimb=\dimen165
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--latex.def
-\pgfutil@abb=\box60
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
-code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex
+\pgfutil@tempdima=\dimen172
+\pgfutil@tempdimb=\dimen173
+) (E:\apps\mitek\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box62
+) (E:\apps\mitek\tex/generic/pgf/utilities\pgfrcs.code.tex (E:\apps\mitek\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+)) (E:\apps\mitek\tex/latex/pgf/utilities\pgfkeys.sty (E:\apps\mitek\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-libraryfiltered.code.tex
+ (E:\apps\mitek\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks22
-)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
-code.tex
-\pgf@x=\dimen166
-\pgf@xa=\dimen167
-\pgf@xb=\dimen168
-\pgf@xc=\dimen169
-\pgf@y=\dimen170
-\pgf@ya=\dimen171
-\pgf@yb=\dimen172
-\pgf@yc=\dimen173
-\c@pgf@counta=\count282
-\c@pgf@countb=\count283
-\c@pgf@countc=\count284
-\c@pgf@countd=\count285
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
-r.code.tex
-\pgfmath@dimen=\dimen174
-\pgfmath@count=\count286
-\pgfmath@box=\box61
+))) (E:\apps\mitek\tex/generic/pgf/math\pgfmath.code.tex (E:\apps\mitek\tex/generic/pgf/math\pgfmathutil.code.tex
+\pgf@x=\dimen174
+\pgf@xa=\dimen175
+\pgf@xb=\dimen176
+\pgf@xc=\dimen177
+\pgf@y=\dimen178
+\pgf@ya=\dimen179
+\pgf@yb=\dimen180
+\pgf@yc=\dimen181
+\c@pgf@counta=\count304
+\c@pgf@countb=\count305
+\c@pgf@countc=\count306
+\c@pgf@countd=\count307
+) (E:\apps\mitek\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen182
+\pgfmath@count=\count308
+\pgfmath@box=\box63
 \pgfmath@toks=\toks23
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.basic.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.trigonometric.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.random.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.comparison.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.base.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.round.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.misc.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
-code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
-.code.tex
-\c@pgfmathroundto@lastzeros=\count287
-)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
-sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathcalc.code.tex) (E:\apps\mitek\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count309
+))) (E:\apps\mitek\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+) (E:\apps\mitek\tex/latex/pgf/basiclayer\pgfcore.sty (E:\apps\mitek\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (E:\apps\mitek\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (E:\apps\mitek\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (E:\apps\mitek\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (E:\apps\mitek\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen175
-\Gin@req@width=\dimen176
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
-sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-\pgf@x=\dimen177
-\pgf@y=\dimen178
-\pgf@xa=\dimen179
-\pgf@ya=\dimen180
-\pgf@xb=\dimen181
-\pgf@yb=\dimen182
-\pgf@xc=\dimen183
-\pgf@yc=\dimen184
-\pgf@xd=\dimen185
-\pgf@yd=\dimen186
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
+) (E:\apps\mitek\tex/latex/pgf/systemlayer\pgfsys.sty (E:\apps\mitek\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@x=\dimen185
+\pgf@y=\dimen186
+\pgf@xa=\dimen187
+\pgf@ya=\dimen188
+\pgf@xb=\dimen189
+\pgf@yb=\dimen190
+\pgf@xc=\dimen191
+\pgf@yc=\dimen192
+\pgf@xd=\dimen193
+\pgf@yd=\dimen194
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count288
-\c@pgf@countb=\count289
-\c@pgf@countc=\count290
-\c@pgf@countd=\count291
+\c@pgf@counta=\count310
+\c@pgf@countb=\count311
+\c@pgf@countc=\count312
+\c@pgf@countd=\count313
 \t@pgf@toka=\toks26
 \t@pgf@tokb=\toks27
 \t@pgf@tokc=\toks28
-\pgf@sys@id@count=\count292
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
-fg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+\pgf@sys@id@count=\count314
+ (E:\apps\mitek\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-ssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count293
-\pgfsyssoftpath@bigbuffer@items=\count294
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-sprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (E:\apps\mitek\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (E:\apps\mitek\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (E:\apps\mitek\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count315
+\pgfsyssoftpath@bigbuffer@items=\count316
+) (E:\apps\mitek\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (E:\apps\mitek\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (E:\apps\mitek\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+ (E:\apps\mitek\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (E:\apps\mitek\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-e.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
-tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epoints.code.tex
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen187
-\pgf@picmaxx=\dimen188
-\pgf@picminy=\dimen189
-\pgf@picmaxy=\dimen190
-\pgf@pathminx=\dimen191
-\pgf@pathmaxx=\dimen192
-\pgf@pathminy=\dimen193
-\pgf@pathmaxy=\dimen194
-\pgf@xx=\dimen195
-\pgf@xy=\dimen196
-\pgf@yx=\dimen197
-\pgf@yy=\dimen198
-\pgf@zx=\dimen199
-\pgf@zy=\dimen256
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen257
-\pgf@path@lasty=\dimen258
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathusage.code.tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen259
-\pgf@shorten@start@additional=\dimen260
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-escopes.code.tex
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box62
-\pgf@hbox=\box63
-\pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count295
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-egraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen261
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransformations.code.tex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen262
-\pgf@pt@y=\dimen263
-\pgf@pt@temp=\dimen264
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-equick.code.tex
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eobjects.code.tex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-earrows.code.tex
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen265
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eshade.code.tex
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen266
-\pgf@sys@shading@range@num=\count296
-\pgf@shadingcount=\count297
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eimage.code.tex
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eexternal.code.tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box65
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-elayers.code.tex
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransparency.code.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epatterns.code.tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-erdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.s
-ty
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (E:\apps\mitek\tex/generic/pgf/math\pgfint.code.tex) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen195
+\pgf@picmaxx=\dimen196
+\pgf@picminy=\dimen197
+\pgf@picmaxy=\dimen198
+\pgf@pathminx=\dimen199
+\pgf@pathmaxx=\dimen256
+\pgf@pathminy=\dimen257
+\pgf@pathmaxy=\dimen258
+\pgf@xx=\dimen259
+\pgf@xy=\dimen260
+\pgf@yx=\dimen261
+\pgf@yy=\dimen262
+\pgf@zx=\dimen263
+\pgf@zy=\dimen264
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen265
+\pgf@path@lasty=\dimen266
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen267
+\pgf@shorten@start@additional=\dimen268
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count317
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen269
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen270
+\pgf@pt@y=\dimen271
+\pgf@pt@temp=\dimen272
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen273
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen274
+\pgf@sys@shading@range@num=\count318
+\pgf@shadingcount=\count319
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box67
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (E:\apps\mitek\tex/latex/pgf/utilities\xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count298
-\XC@countmixins=\count299
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+\XC@nummixins=\count320
+\XC@countmixins=\count321
+) (E:\apps\mitek\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+) (E:\apps\mitek\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (E:\apps\mitek\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+) (E:\apps\mitek\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+) (E:\apps\mitek\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (E:\apps\mitek\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+) (E:\apps\mitek\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (E:\apps\mitek\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)) (E:\apps\mitek\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
-Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+) (E:\apps\mitek\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (E:\apps\mitek\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+) (E:\apps\mitek\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (E:\apps\mitek\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count300
+\c@section@level=\count322
+) (E:\apps\mitek\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen267
-\Hy@linkcounter=\count301
-\Hy@pagecounter=\count302
- (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen275
+\Hy@linkcounter=\count323
+\Hy@pagecounter=\count324
+ (E:\apps\mitek\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (E:\apps\mitek\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count303
- (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count325
+ (E:\apps\mitek\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4064.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4064.
-Package hyperref Info: Option `implicit' set `false' on input line 4064.
-Package hyperref Info: Hyper figures OFF on input line 4181.
-Package hyperref Info: Link nesting OFF on input line 4186.
-Package hyperref Info: Hyper index ON on input line 4189.
-Package hyperref Info: Plain pages OFF on input line 4196.
-Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4066.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4066.
+Package hyperref Info: Option `implicit' set `false' on input line 4066.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count304
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip16
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count326
+ (E:\apps\mitek\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen268
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen276
+ (E:\apps\mitek\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (E:\apps\mitek\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count305
-\Field@Width=\dimen269
-\Fld@charsize=\dimen270
-Package hyperref Info: Hyper figures OFF on input line 6065.
-Package hyperref Info: Link nesting OFF on input line 6070.
-Package hyperref Info: Hyper index ON on input line 6073.
-Package hyperref Info: backreferencing OFF on input line 6080.
-Package hyperref Info: Link coloring OFF on input line 6085.
-Package hyperref Info: Link coloring with OCG OFF on input line 6090.
-Package hyperref Info: PDF/A mode OFF on input line 6095.
-\Hy@abspage=\count306
+\Fld@menulength=\count327
+\Field@Width=\dimen277
+\Fld@charsize=\dimen278
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count328
 
 
 Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
-)
-\Fld@listcount=\count307
-\c@bookmark@seq@number=\count308
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+ (E:\apps\mitek\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count329
+\c@bookmark@seq@number=\count330
+ (E:\apps\mitek\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+ (E:\apps\mitek\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequir
-es.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompat
-ibility.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.s
-ty (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)) (E:\apps\mitek\tex/latex/beamer\beamerbaserequires.sty (E:\apps\mitek\tex/latex/beamer\beamerbasecompatibility.sty) (E:\apps\mitek\tex/latex/beamer\beamerbasefont.sty (E:\apps\mitek\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+ (E:\apps\mitek\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks29
 \symAMSa=\mathgroup4
@@ -545,387 +380,286 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmath
-accent.sty
+)) (E:\apps\mitek\tex/latex/sansmathaccent\sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
-y
+ (E:\apps\mitek\tex/latex/koma-script\scrlfile.sty
 Package: scrlfile 2025/09/09 v3.48 KOMA-Script package (file load hooks)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
-ok.sty
+ (E:\apps\mitek\tex/latex/koma-script\scrlfile-hook.sty
 Package: scrlfile-hook 2025/09/09 v3.48 KOMA-Script package (using LaTeX hooks)
-
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+ (E:\apps\mitek\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2025/09/09 v3.48 KOMA-Script package (logo)
-)))))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetransl
-ator.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
-ty
+))))) (E:\apps\mitek\tex/latex/beamer\beamerbasetranslator.sty (E:\apps\mitek\tex/latex/translator\translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.s
-ty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscr
-eens.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverla
-y.sty
-\beamer@argscount=\count309
-\beamer@lastskipcover=\skip51
-\beamer@trivlistdepth=\count310
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.
-sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesectio
-n.sty
-\c@lecture=\count311
-\c@part=\count312
-\c@section=\count313
-\c@subsection=\count314
-\c@subsubsection=\count315
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.
-sty
-\beamer@framebox=\box66
-\beamer@frametitlebox=\box67
-\beamer@zoombox=\box68
-\beamer@zoomcount=\count316
-\beamer@zoomframecount=\count317
-\beamer@frametextheight=\dimen271
-\c@subsectionslide=\count318
-\beamer@frametopskip=\skip52
-\beamer@framebottomskip=\skip53
-\beamer@frametopskipautobreak=\skip54
-\beamer@framebottomskipautobreak=\skip55
+)) (E:\apps\mitek\tex/latex/beamer\beamerbasemisc.sty) (E:\apps\mitek\tex/latex/beamer\beamerbasetwoscreens.sty) (E:\apps\mitek\tex/latex/beamer\beamerbaseoverlay.sty
+\beamer@argscount=\count331
+\beamer@lastskipcover=\skip52
+\beamer@trivlistdepth=\count332
+) (E:\apps\mitek\tex/latex/beamer\beamerbasetitle.sty) (E:\apps\mitek\tex/latex/beamer\beamerbasesection.sty
+\c@lecture=\count333
+\c@part=\count334
+\c@section=\count335
+\c@subsection=\count336
+\c@subsubsection=\count337
+) (E:\apps\mitek\tex/latex/beamer\beamerbaseframe.sty
+\beamer@framebox=\box68
+\beamer@frametitlebox=\box69
+\beamer@zoombox=\box70
+\beamer@zoomcount=\count338
+\beamer@zoomframecount=\count339
+\beamer@frametextheight=\dimen279
+\c@subsectionslide=\count340
+\beamer@frametopskip=\skip53
+\beamer@framebottomskip=\skip54
+\beamer@frametopskipautobreak=\skip55
+\beamer@framebottomskipautobreak=\skip56
 \beamer@envbody=\toks30
-\framewidth=\dimen272
-\c@framenumber=\count319
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbat
-im.sty
+\framewidth=\dimen280
+\c@framenumber=\count341
+) (E:\apps\mitek\tex/latex/beamer\beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframes
-ize.sty
-\beamer@splitbox=\box69
-\beamer@autobreakcount=\count320
-\beamer@autobreaklastheight=\dimen273
+) (E:\apps\mitek\tex/latex/beamer\beamerbaseframesize.sty
+\beamer@splitbox=\box71
+\beamer@autobreakcount=\count342
+\beamer@autobreaklastheight=\dimen281
 \beamer@frametitletoks=\toks31
 \beamer@framesubtitletoks=\toks32
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframec
-omponents.sty
-\beamer@colheight=\skip56
-\beamer@footins=\box70
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.
-sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.
-sty
-\beamer@frameboxcopy=\box71
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.st
-y)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetempla
-tes.sty
+) (E:\apps\mitek\tex/latex/beamer\beamerbaseframecomponents.sty
+\beamer@colheight=\skip57
+\beamer@footins=\box72
+) (E:\apps\mitek\tex/latex/beamer\beamerbasecolor.sty) (E:\apps\mitek\tex/latex/beamer\beamerbasenotes.sty
+\beamer@frameboxcopy=\box73
+) (E:\apps\mitek\tex/latex/beamer\beamerbasetoc.sty) (E:\apps\mitek\tex/latex/beamer\beamerbasetemplates.sty
 \beamer@sbttoks=\toks33
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtem
-plates.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.
-sty
-\bmb@box=\box72
-\bmb@colorbox=\box73
-\bmb@boxwidth=\dimen274
-\bmb@boxheight=\dimen275
-\bmb@prevheight=\dimen276
-\bmb@temp=\dimen277
-\bmb@dima=\dimen278
-\bmb@dimb=\dimen279
-\bmb@prevheight=\dimen280
+ (E:\apps\mitek\tex/latex/beamer\beamerbaseauxtemplates.sty (E:\apps\mitek\tex/latex/beamer\beamerbaseboxes.sty
+\bmb@box=\box74
+\bmb@colorbox=\box75
+\bmb@boxwidth=\dimen282
+\bmb@boxheight=\dimen283
+\bmb@prevheight=\dimen284
+\bmb@temp=\dimen285
+\bmb@dima=\dimen286
+\bmb@dimb=\dimen287
+\bmb@prevheight=\dimen288
 )
-\beamer@blockheadheight=\dimen281
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocals
-tructure.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+\beamer@blockheadheight=\dimen289
+)) (E:\apps\mitek\tex/latex/beamer\beamerbaselocalstructure.sty (E:\apps\mitek\tex/latex/tools\enumerate.sty
 Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \@enLab=\toks34
 )
-\beamer@bibiconwidth=\skip57
-\c@figure=\count321
-\c@table=\count322
-\abovecaptionskip=\skip58
-\belowcaptionskip=\skip59
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
-tion.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
-tionsymbols.tex)
-\beamer@section@min@dim=\dimen282
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheore
-ms.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip60
+\beamer@bibiconwidth=\skip58
+\c@figure=\count343
+\c@table=\count344
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+) (E:\apps\mitek\tex/latex/beamer\beamerbasenavigation.sty (E:\apps\mitek\tex/latex/beamer\beamerbasenavigationsymbols.tex)
+\beamer@section@min@dim=\dimen290
+) (E:\apps\mitek\tex/latex/beamer\beamerbasetheorems.sty (E:\apps\mitek\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip61
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(E:\apps\mitek\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (E:\apps\mitek\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks35
-\ex@=\dimen283
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+\ex@=\dimen291
+)) (E:\apps\mitek\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen284
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+\pmbraise@=\dimen292
+) (E:\apps\mitek\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count323
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count324
-\leftroot@=\count325
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count326
-\DOTSCASE@=\count327
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box74
-\strutbox@=\box75
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen285
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count328
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count329
-\dotsspace@=\muskip17
-\c@parentequation=\count330
-\dspbrk@lvl=\count331
+\inf@bad=\count345
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count346
+\leftroot@=\count347
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count348
+\DOTSCASE@=\count349
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box76
+\strutbox@=\box77
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen293
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count350
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count351
+\dotsspace@=\muskip18
+\c@parentequation=\count352
+\dspbrk@lvl=\count353
 \tag@help=\toks36
-\row@=\count332
-\column@=\count333
-\maxfields@=\count334
+\row@=\count354
+\column@=\count355
+\maxfields@=\count356
 \andhelp@=\toks37
-\eqnshift@=\dimen286
-\alignsep@=\dimen287
-\tagshift@=\dimen288
-\tagwidth@=\dimen289
-\totwidth@=\dimen290
-\lineht@=\dimen291
+\eqnshift@=\dimen294
+\alignsep@=\dimen295
+\tagshift@=\dimen296
+\tagwidth@=\dimen297
+\totwidth@=\dimen298
+\lineht@=\dimen299
 \@envbody=\toks38
-\multlinegap=\skip61
-\multlinetaggap=\skip62
+\multlinegap=\skip62
+\multlinetaggap=\skip63
 \mathdisplay@stack=\toks39
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+) (E:\apps\mitek\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks40
 \thm@bodyfont=\toks41
 \thm@headfont=\toks42
 \thm@notefont=\toks43
 \thm@headpunct=\toks44
-\thm@preskip=\skip63
-\thm@postskip=\skip64
-\thm@headsep=\skip65
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
 \dth@everypar=\toks45
 )
-\c@theorem=\count335
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes
-.sty))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefau
-lt.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemed
-efault.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
-default.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
-default.sty
-\beamer@dima=\dimen292
-\beamer@dimb=\dimen293
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
-default.sty)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemesplit
-.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
-whale.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
-split.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemes
-tructurebold.sty))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeshado
-w.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
-rounded.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
-orchid.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
-shadow.sty))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
-ar.sty
+\c@theorem=\count357
+) (E:\apps\mitek\tex/latex/beamer\beamerbasethemes.sty)) (E:\apps\mitek\tex/latex/beamer\beamerthemedefault.sty (E:\apps\mitek\tex/latex/beamer\beamerfontthemedefault.sty) (E:\apps\mitek\tex/latex/beamer\beamercolorthemedefault.sty) (E:\apps\mitek\tex/latex/beamer\beamerinnerthemedefault.sty
+\beamer@dima=\dimen300
+\beamer@dimb=\dimen301
+) (E:\apps\mitek\tex/latex/beamer\beamerouterthemedefault.sty))) (E:\apps\mitek\tex/latex/beamer\beamerthemesplit.sty (E:\apps\mitek\tex/latex/beamer\beamercolorthemewhale.sty) (E:\apps\mitek\tex/latex/beamer\beamerouterthemesplit.sty) (E:\apps\mitek\tex/latex/beamer\beamerfontthemestructurebold.sty)) (E:\apps\mitek\tex/latex/beamer\beamerthemeshadow.sty (E:\apps\mitek\tex/latex/beamer\beamerinnerthemerounded.sty) (E:\apps\mitek\tex/latex/beamer\beamercolorthemeorchid.sty) (E:\apps\mitek\tex/latex/beamer\beamerouterthemeshadow.sty)) (E:\apps\mitek\tex/latex/supertabular\supertabular.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
-\c@tracingst=\count336
-\ST@wd=\dimen294
-\ST@rightskip=\skip66
-\ST@leftskip=\skip67
-\ST@parfillskip=\skip68
-\ST@pageleft=\dimen295
-\ST@headht=\dimen296
-\ST@tailht=\dimen297
-\ST@pagesofar=\dimen298
-\ST@pboxht=\dimen299
-\ST@rowht=\dimen300
-\ST@prevht=\dimen301
-\ST@toadd=\dimen302
-\ST@dimen=\dimen303
-\ST@pbox=\box76
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+\c@tracingst=\count358
+\ST@wd=\dimen302
+\ST@rightskip=\skip67
+\ST@leftskip=\skip68
+\ST@parfillskip=\skip69
+\ST@pageleft=\dimen303
+\ST@headht=\dimen304
+\ST@tailht=\dimen305
+\ST@pagesofar=\dimen306
+\ST@pboxht=\dimen307
+\ST@rowht=\dimen308
+\ST@prevht=\dimen309
+\ST@toadd=\dimen310
+\ST@dimen=\dimen311
+\ST@pbox=\box78
+) (E:\apps\mitek\tex/latex/textpos\textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box77
-\TP@holdbox=\box78
-\TPHorizModule=\dimen304
-\TPVertModule=\dimen305
-\TP@margin=\dimen306
-\TP@absmargin=\dimen307
+\TP@textbox=\box79
+\TP@holdbox=\box80
+\TPHorizModule=\dimen312
+\TPVertModule=\dimen313
+\TP@margin=\dimen314
+\TP@absmargin=\dimen315
 
 Grid set 16 x 16 = 28.45274pt x 16.00467pt
-\TPboxrulesize=\dimen308
-\TP@ox=\dimen309
-\TP@oy=\dimen310
+\TPboxrulesize=\dimen316
+\TP@ox=\dimen317
+\TP@oy=\dimen318
 \TP@tbargs=\toks46
 TextBlockOrigin set to 0pt x 0pt
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (E:\apps\mitek\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen311
-\ar@mcellbox=\box79
-\extrarowheight=\dimen312
+ (E:\apps\mitek\tex/latex/tools\array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen319
+\ar@mcellbox=\box81
+\extrarowheight=\dimen320
 \NC@list=\toks47
-\extratabsurround=\skip69
-\backup@length=\skip70
-\ar@cellbox=\box80
+\extratabsurround=\skip70
+\backup@length=\skip71
+\ar@cellbox=\box82
 )
 \everycr=\toks48
-\minrowclearance=\skip71
-\rownum=\count337
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeWarsa
-w.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
-infolines.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+\minrowclearance=\skip72
+\rownum=\count359
+) (E:\apps\mitek\tex/latex/beamer\beamerthemeWarsaw.sty) (E:\apps\mitek\tex/latex/beamer\beamerouterthemeinfolines.sty) (E:\apps\mitek\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (E:\apps\mitek\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip72
-\bibsep=\skip73
+\bibhang=\skip73
+\bibsep=\skip74
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count338
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\hhline.sty
+\c@NAT@ctr=\count360
+) (E:\apps\mitek\tex/latex/tools\hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
 )
-\c@magicrownumbers=\count339
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+\c@magicrownumbers=\count361
+ (E:\apps\mitek\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen313
-\lightrulewidth=\dimen314
-\cmidrulewidth=\dimen315
-\belowrulesep=\dimen316
-\belowbottomsep=\dimen317
-\aboverulesep=\dimen318
-\abovetopsep=\dimen319
-\cmidrulesep=\dimen320
-\cmidrulekern=\dimen321
-\defaultaddspace=\dimen322
-\@cmidla=\count340
-\@cmidlb=\count341
-\@aboverulesep=\dimen323
-\@belowrulesep=\dimen324
-\@thisruleclass=\count342
-\@lastruleclass=\count343
-\@thisrulewidth=\dimen325
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+\heavyrulewidth=\dimen321
+\lightrulewidth=\dimen322
+\cmidrulewidth=\dimen323
+\belowrulesep=\dimen324
+\belowbottomsep=\dimen325
+\aboverulesep=\dimen326
+\abovetopsep=\dimen327
+\cmidrulesep=\dimen328
+\cmidrulekern=\dimen329
+\defaultaddspace=\dimen330
+\@cmidla=\count362
+\@cmidlb=\count363
+\@aboverulesep=\dimen331
+\@belowrulesep=\dimen332
+\@thisruleclass=\count364
+\@lastruleclass=\count365
+\@thisrulewidth=\dimen333
+) (E:\apps\mitek\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+ (E:\apps\mitek\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (E:\apps\mitek\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen326
-\captionmargin=\dimen327
-\caption@leftmargin=\dimen328
-\caption@rightmargin=\dimen329
-\caption@width=\dimen330
-\caption@indent=\dimen331
-\caption@parindent=\dimen332
-\caption@hangindent=\dimen333
+\caption@tempdima=\dimen334
+\captionmargin=\dimen335
+\caption@leftmargin=\dimen336
+\caption@rightmargin=\dimen337
+\caption@width=\dimen338
+\caption@indent=\dimen339
+\caption@parindent=\dimen340
+\caption@hangindent=\dimen341
 Package caption Info: beamer document class detected.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.
-sto
-File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
-e beamer document classes (AR)
+ (E:\apps\mitek\tex/latex/caption\caption-beamer.sto
+File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the beamer document classes (AR)
 ))
-\c@caption@flags=\count344
-\c@continuedfloat=\count345
+\c@caption@flags=\count366
+\c@continuedfloat=\count367
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 Package caption Info: supertabular package is loaded.
 )
-\c@KVtest=\count346
-\sf@farskip=\skip74
-\sf@captopadj=\dimen334
-\sf@capskip=\skip75
-\sf@nearskip=\skip76
-\c@subfigure=\count347
-\c@subfigure@save=\count348
-\c@depth=\count349
-\c@subtable=\count350
-\c@subtable@save=\count351
-\sf@top=\skip77
-\sf@bottom=\skip78
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+\c@KVtest=\count368
+\sf@farskip=\skip75
+\sf@captopadj=\dimen342
+\sf@capskip=\skip76
+\sf@nearskip=\skip77
+\c@subfigure=\count369
+\c@subfigure@save=\count370
+\c@depth=\count371
+\c@subtable=\count372
+\c@subtable@save=\count373
+\sf@top=\skip78
+\sf@bottom=\skip79
+) (E:\apps\mitek\tex/latex/subfigure\subfigure.sty
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip79
-\subfigcapskip=\skip80
-\subfigcaptopadj=\dimen335
-\subfigbottomskip=\skip81
-\subfigcapmargin=\dimen336
-\subfiglabelskip=\skip82
+\subfigtopskip=\skip80
+\subfigcapskip=\skip81
+\subfigcaptopadj=\dimen343
+\subfigbottomskip=\skip82
+\subfigcapmargin=\dimen344
+\subfiglabelskip=\skip83
 
-! LaTeX Error: Command \c@subfigure already defined.
+
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:88: LaTeX Error: Command \c@subfigure already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -939,7 +673,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \l@subfigure already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:98: LaTeX Error: Command \l@subfigure already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -952,9 +686,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-\c@lofdepth=\count352
+\c@lofdepth=\count374
 
-! LaTeX Error: Command \c@subtable already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:101: LaTeX Error: Command \c@subtable already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -968,7 +702,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \l@subtable already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:111: LaTeX Error: Command \l@subtable already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -981,18 +715,16 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-\c@lotdepth=\count353
+\c@lotdepth=\count375
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg
-)
-\subfig@top=\skip83
-\subfig@bottom=\skip84
+(E:\apps\mitek\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip84
+\subfig@bottom=\skip85
 
 
-! LaTeX Error: Command \listsubcaptions already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:269: LaTeX Error: Command \listsubcaptions already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1006,7 +738,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \@listsubcaptions already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:280: LaTeX Error: Command \@listsubcaptions already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1020,7 +752,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \@dottedxxxline already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:333: LaTeX Error: Command \@dottedxxxline already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1034,7 +766,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \subfloat@label already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:361: LaTeX Error: Command \subfloat@label already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1048,7 +780,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \sf@@sub@label already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:386: LaTeX Error: Command \sf@@sub@label already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1062,7 +794,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \subref already defined.
+E:\apps\mitek\tex/latex/subfigure\subfigure.sty:388: LaTeX Error: Command \subref already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1075,13 +807,12 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/mathabx\mathabx.sty
+) (E:\apps\mitek\tex/latex/mathabx\mathabx.sty
 Package: mathabx 2003/07/29 v0.0 Non-standard LaTeX package mathabx
 \symmatha=\mathgroup6
 \symmathb=\mathgroup7
 \symmathx=\mathgroup8
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/mathabx\mathabx.dcl
+ (E:\apps\mitek\tex/generic/mathabx\mathabx.dcl
 LaTeX Font Info:    Redeclaring math symbol \cdotp on input line 25.
 LaTeX Font Info:    Redeclaring math symbol \times on input line 33.
 LaTeX Font Info:    Redeclaring math symbol \div on input line 34.
@@ -1134,7 +865,6 @@ LaTeX Font Info:    Redeclaring math symbol \smile on input line 171.
 LaTeX Font Info:    Redeclaring math symbol \frown on input line 172.
 LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 174.
 LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 175.
-
 LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 176.
 LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 182.
 LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 184.
@@ -1197,25 +927,17 @@ LaTeX Font Info:    Redeclaring math symbol \sqsubseteq on input line 380.
 LaTeX Font Info:    Redeclaring math symbol \sqsupseteq on input line 381.
 LaTeX Font Info:    Redeclaring math symbol \triangleleft on input line 407.
 LaTeX Font Info:    Redeclaring math symbol \vartriangleleft on input line 408.
-
 LaTeX Font Info:    Redeclaring math symbol \triangleright on input line 409.
-LaTeX Font Info:    Redeclaring math symbol \vartriangleright on input line 410
-.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleright on input line 410.
 LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 411.
 LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 412.
 LaTeX Font Info:    Redeclaring math symbol \trianglelefteq on input line 413.
 LaTeX Font Info:    Redeclaring math symbol \trianglerighteq on input line 414.
-
 LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 415.
-
-LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 416
-.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 42
-7.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 42
-8.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 4
-29.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 416.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 427.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 428.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 429.
 LaTeX Font Info:    Redeclaring math symbol \nless on input line 437.
 LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 438.
 LaTeX Font Info:    Redeclaring math symbol \leq on input line 439.
@@ -1282,39 +1004,29 @@ LaTeX Font Info:    Redeclaring math symbol \leftrightarrow on input line 550.
 LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 552.
 LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 553.
 LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 554.
-
 LaTeX Font Info:    Redeclaring math symbol \mapstochar on input line 557.
 LaTeX Font Info:    Redeclaring math symbol \leftharpoonup on input line 560.
 LaTeX Font Info:    Redeclaring math symbol \rightharpoonup on input line 561.
 LaTeX Font Info:    Redeclaring math symbol \leftharpoondown on input line 562.
-
-LaTeX Font Info:    Redeclaring math symbol \rightharpoondown on input line 563
-.
+LaTeX Font Info:    Redeclaring math symbol \rightharpoondown on input line 563.
 LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 564.
 LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 565.
-
 LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 566.
 LaTeX Font Info:    Redeclaring math symbol \restriction on input line 567.
-LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 568
-.
-LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
-9.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 568.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 569.
 LaTeX Font Info:    Redeclaring math symbol \Leftarrow on input line 575.
 LaTeX Font Info:    Redeclaring math symbol \Rightarrow on input line 576.
 LaTeX Font Info:    Redeclaring math symbol \Leftrightarrow on input line 579.
 LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 581.
 LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 582.
 LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 583.
-
 LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 593.
-LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 594
-.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 594.
 LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 595.
 LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 596.
 LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 597.
-
 LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 598.
-
 LaTeX Font Info:    Redeclaring math symbol \rhook on input line 612.
 LaTeX Font Info:    Redeclaring math symbol \lhook on input line 613.
 LaTeX Font Info:    Redeclaring math symbol \diagup on input line 614.
@@ -1325,15 +1037,10 @@ LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 624.
 LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 626.
 LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 631.
 LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 633.
-
 LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 641.
-
-LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 642
-.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 642.
 LaTeX Font Info:    Redeclaring math symbol \rightsquigarrow on input line 645.
-
-LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
-646.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 646.
 LaTeX Font Info:    Redeclaring math symbol \oplus on input line 658.
 LaTeX Font Info:    Redeclaring math symbol \ominus on input line 659.
 LaTeX Font Info:    Redeclaring math symbol \otimes on input line 661.
@@ -1343,11 +1050,11 @@ LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 683.
 LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 684.
 LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 686.
 LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 688.
-\mayacnter=\count354
-\mayacnta=\count355
-\mayacntb=\count356
-\mayacntc=\count357
-\mayawidth=\dimen337
+\mayacnter=\count376
+\mayacnta=\count377
+\mayacntb=\count378
+\mayacntc=\count379
+\mayawidth=\dimen345
 LaTeX Font Info:    Redeclaring math symbol \intop on input line 753.
 LaTeX Font Info:    Redeclaring math symbol \ointop on input line 760.
 LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 842.
@@ -1376,470 +1083,322 @@ LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 907.
 LaTeX Font Info:    Redeclaring math symbol \braceru on input line 909.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 944.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 946.
-)) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
-\wrapoverhang=\dimen338
-\WF@size=\dimen339
-\c@WF@wrappedlines=\count358
-\WF@box=\box81
+)) (E:\apps\mitek\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen346
+\WF@size=\dimen347
+\c@WF@wrappedlines=\count380
+\WF@box=\box83
 \WF@everypar=\toks49
 Package: wrapfig 2003/01/31  v 3.6
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
-sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-shapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box82
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-plot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen340
-\pgf@nodesepend=\dimen341
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
-y
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
-code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen342
-\pgffor@skip=\dimen343
+) (E:\apps\mitek\tex/latex/pgf/frontendlayer\tikz.sty (E:\apps\mitek\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (E:\apps\mitek\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box84
+) (E:\apps\mitek\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen348
+\pgf@nodesepend=\dimen349
+) (E:\apps\mitek\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (E:\apps\mitek\tex/latex/pgf/utilities\pgffor.sty (E:\apps\mitek\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen350
+\pgffor@skip=\dimen351
 \pgffor@stack=\toks50
 \pgffor@toks=\toks51
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z\tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count359
-\pgfplotmarksize=\dimen344
+)) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (E:\apps\mitek\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count381
+\pgfplotmarksize=\dimen352
 )
-\tikz@lastx=\dimen345
-\tikz@lasty=\dimen346
-\tikz@lastxsaved=\dimen347
-\tikz@lastysaved=\dimen348
-\tikz@lastmovetox=\dimen349
-\tikz@lastmovetoy=\dimen350
-\tikzleveldistance=\dimen351
-\tikzsiblingdistance=\dimen352
-\tikz@figbox=\box83
-\tikz@figbox@bg=\box84
-\tikz@tempbox=\box85
-\tikz@tempbox@bg=\box86
-\tikztreelevel=\count360
-\tikznumberofchildren=\count361
-\tikznumberofcurrentchild=\count362
-\tikz@fig@count=\count363
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-matrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count364
-\pgfmatrixcurrentcolumn=\count365
-\pgf@matrix@numberofcolumns=\count366
+\tikz@lastx=\dimen353
+\tikz@lasty=\dimen354
+\tikz@lastxsaved=\dimen355
+\tikz@lastysaved=\dimen356
+\tikz@lastmovetox=\dimen357
+\tikz@lastmovetoy=\dimen358
+\tikzleveldistance=\dimen359
+\tikzsiblingdistance=\dimen360
+\tikz@figbox=\box85
+\tikz@figbox@bg=\box86
+\tikz@tempbox=\box87
+\tikz@tempbox@bg=\box88
+\tikztreelevel=\count382
+\tikznumberofchildren=\count383
+\tikznumberofcurrentchild=\count384
+\tikz@fig@count=\count385
+ (E:\apps\mitek\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count386
+\pgfmatrixcurrentcolumn=\count387
+\pgf@matrix@numberofcolumns=\count388
 )
-\tikz@expandcount=\count367
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/animate\animate.sty
+\tikz@expandcount=\count389
+ (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (E:\apps\mitek\tex/latex/animate\animate.sty
 Package: animate 2024/10/14 PDF & SVG animations from files and inline graphics
-
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\ifdraft.sty
+ (E:\apps\mitek\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (E:\apps\mitek\tex/latex/oberdiek\ifdraft.sty
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (E:\apps\mitek\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count390
+\calc@Bcount=\count391
+\calc@Adimen=\dimen361
+\calc@Bdimen=\dimen362
+\calc@Askip=\skip86
+\calc@Bskip=\skip87
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count392
+\calc@Cskip=\skip88
+) (E:\apps\mitek\tex/latex/media9\pdfbase.sty
+Package: pdfbase 2024/09/16 v0.59 driver independent access to low-level PDF features
+ (E:\apps\mitek\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count393
 )
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
-Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count368
-\calc@Bcount=\count369
-\calc@Adimen=\dimen353
-\calc@Bdimen=\dimen354
-\calc@Askip=\skip85
-\calc@Bskip=\skip86
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count370
-\calc@Cskip=\skip87
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/media9\pdfbase.sty
-Package: pdfbase 2024/09/16 v0.59 driver independent access to low-level PDF fe
-atures
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count371
-\l__pdf_internal_box=\box87
-)
-\g_pbs_page_int=\count372
-\g_pbs_oc_int=\count373
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+\g_pbs_page_int=\count394
+\g_pbs_oc_int=\count395
+) (E:\apps\mitek\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2025-06-08 v2.36 Module abspage for zref (HO)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+ (E:\apps\mitek\tex/latex/zref\zref-base.sty
 Package: zref-base 2025-06-08 v2.36 Module base for zref (HO)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+ (E:\apps\mitek\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (E:\apps\mitek\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count374
+\c@abspage=\count396
 Package zref Info: New property: abspage on input line 67.
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/ocgx2\ocgbase.sty
+) (E:\apps\mitek\tex/latex/ocgx2\ocgbase.sty
 Package: ocgbase 2024/09/15 v0.24 support package for ocgx2.sty
 )
-\@anim@box=\box88
-\@anim@measbox=\box89
-\@anim@tmpdima=\dimen355
-\@anim@tmpdimb=\dimen356
-\@anim@num=\count375
-\@anim@curframe=\count376
-\@anim@curframe@zb=\count377
-\@anim@resizeflags=\count378
-\@anim@skipfram=\count379
-\@anim@mulframecnt=\count380
+\@anim@box=\box89
+\@anim@measbox=\box90
+\@anim@tmpdima=\dimen363
+\@anim@tmpdimb=\dimen364
+\@anim@num=\count397
+\@anim@curframe=\count398
+\@anim@curframe@zb=\count399
+\@anim@resizeflags=\count400
+\@anim@skipfram=\count401
+\@anim@mulframecnt=\count402
 \@anim@@tmlnfile=\read3
-\@anim@tmpcnt=\count381
-\c@@anim@ltxcnt=\count382
-\@anim@curlayer=\count383
-\@anim@lineno=\count384
-\@anim@curfield=\count385
-\@anim@@resizeflags=\count386
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
-pgflibraryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryarrows.code.tex
-File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen357
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+\@anim@tmpcnt=\count403
+\c@@anim@ltxcnt=\count404
+\@anim@curlayer=\count405
+\@anim@lineno=\count406
+\@anim@curfield=\count407
+\@anim@@resizeflags=\count408
+) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (E:\apps\mitek\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (E:\apps\mitek\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\arrowsize=\dimen365
+)) (E:\apps\mitek\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip88
-\RaggedLeftLeftskip=\skip89
-\RaggedRightLeftskip=\skip90
-\CenteringRightskip=\skip91
-\RaggedLeftRightskip=\skip92
-\RaggedRightRightskip=\skip93
-\CenteringParfillskip=\skip94
-\RaggedLeftParfillskip=\skip95
-\RaggedRightParfillskip=\skip96
-\JustifyingParfillskip=\skip97
-\CenteringParindent=\skip98
-\RaggedLeftParindent=\skip99
-\RaggedRightParindent=\skip100
-\JustifyingParindent=\skip101
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
-structure.sty)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+\CenteringLeftskip=\skip89
+\RaggedLeftLeftskip=\skip90
+\RaggedRightLeftskip=\skip91
+\CenteringRightskip=\skip92
+\RaggedLeftRightskip=\skip93
+\RaggedRightRightskip=\skip94
+\CenteringParfillskip=\skip95
+\RaggedLeftParfillskip=\skip96
+\RaggedRightParfillskip=\skip97
+\JustifyingParfillskip=\skip98
+\CenteringParindent=\skip99
+\RaggedLeftParindent=\skip100
+\RaggedRightParindent=\skip101
+\JustifyingParindent=\skip102
+) (E:\apps\mitek\tex/latex/beamer\beamercolorthemestructure.sty) (E:\apps\mitek\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+ (E:\apps\mitek\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count387
-\l_MT_multwidth_dim=\dimen358
-\origjot=\skip102
-\l_MT_shortvdotswithinadjustabove_dim=\dimen359
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen360
-\l_MT_above_intertext_sep=\dimen361
-\l_MT_below_intertext_sep=\dimen362
-\l_MT_above_shortintertext_sep=\dimen363
-\l_MT_below_shortintertext_sep=\dimen364
-\xmathstrut@box=\box90
-\xmathstrut@dim=\dimen365
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudoc
-ode.sty
+\g_MT_multlinerow_int=\count409
+\l_MT_multwidth_dim=\dimen366
+\origjot=\skip103
+\l_MT_shortvdotswithinadjustabove_dim=\dimen367
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen368
+\l_MT_above_intertext_sep=\dimen369
+\l_MT_below_intertext_sep=\dimen370
+\l_MT_above_shortintertext_sep=\dimen371
+\l_MT_below_shortintertext_sep=\dimen372
+\xmathstrut@box=\box91
+\xmathstrut@dim=\dimen373
+) (E:\apps\mitek\tex/latex/algorithmicx\algpseudocode.sty
 Package: algpseudocode 
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmi
-cx.sty
+ (E:\apps\mitek\tex/latex/algorithmicx\algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count388
-\c@ALG@rem=\count389
-\c@ALG@nested=\count390
-\ALG@tlm=\skip103
-\ALG@thistlm=\skip104
-\c@ALG@Lnr=\count391
-\c@ALG@blocknr=\count392
-\c@ALG@storecount=\count393
-\c@ALG@tmpcounter=\count394
-\ALG@tmplength=\skip105
+\c@ALG@line=\count410
+\c@ALG@rem=\count411
+\c@ALG@nested=\count412
+\ALG@tlm=\skip104
+\ALG@thistlm=\skip105
+\c@ALG@Lnr=\count413
+\c@ALG@blocknr=\count414
+\c@ALG@storecount=\count415
+\c@ALG@tmpcounter=\count416
+\ALG@tmplength=\skip106
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
-Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+) (E:\apps\mitek\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks52
 \verbatim@line=\toks53
 \verbatim@in@stream=\read4
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
-Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
-\LTleft=\skip106
-\LTright=\skip107
-\LTpre=\skip108
-\LTpost=\skip109
-\LTchunksize=\count395
-\LTcapwidth=\dimen366
-\LT@head=\box91
-\LT@firsthead=\box92
-\LT@foot=\box93
-\LT@lastfoot=\box94
-\LT@gbox=\box95
-\LT@cols=\count396
-\LT@rows=\count397
-\c@LT@tables=\count398
-\c@LT@chunks=\count399
+) (E:\apps\mitek\tex/latex/tools\longtable.sty
+Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+\LTleft=\skip107
+\LTright=\skip108
+\LTpre=\skip109
+\LTpost=\skip110
+\LTchunksize=\count417
+\LTcapwidth=\dimen374
+\LT@head=\box92
+\LT@firsthead=\box93
+\LT@foot=\box94
+\LT@lastfoot=\box95
+\LT@gbox=\box96
+\LT@cols=\count418
+\LT@rows=\count419
+\c@LT@tables=\count420
+\c@LT@chunks=\count421
 \LT@p@ftn=\toks54
+) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (E:\apps\mitek\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen375
+\pgfdecoratedremainingdistance=\dimen376
+\pgfdecoratedinputsegmentcompleteddistance=\dimen377
+\pgfdecoratedinputsegmentremainingdistance=\dimen378
+\pgf@decorate@distancetomove=\dimen379
+\pgf@decorate@repeatstate=\count422
+\pgfdecorationsegmentamplitude=\dimen380
+\pgfdecorationsegmentlength=\dimen381
 )
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarytrees.code.tex
-File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-decorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen367
-\pgfdecoratedremainingdistance=\dimen368
-\pgfdecoratedinputsegmentcompleteddistance=\dimen369
-\pgfdecoratedinputsegmentremainingdistance=\dimen370
-\pgf@decorate@distancetomove=\dimen371
-\pgf@decorate@repeatstate=\count400
-\pgfdecorationsegmentamplitude=\dimen372
-\pgfdecorationsegmentlength=\dimen373
-)
-\tikz@lib@dec@box=\box96
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.pathmorphing.code.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.markings.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.markings.code.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
-ision.tex)
+\tikz@lib@dec@box=\box97
+) (E:\apps\mitek\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.markings.code.tex (E:\apps\mitek\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.markings.code.tex)) (E:\apps\mitek\tex/latex/pgfplots\pgfplots.sty (E:\apps\mitek\tex/generic/pgfplots\pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
-e.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
-.code.tex
+ (E:\apps\mitek\tex/generic/pgfplots\pgfplots.code.tex (E:\apps\mitek\tex/generic/pgfplots\pgfplotscore.code.tex
 \t@pgfplots@toka=\toks55
 \t@pgfplots@tokb=\toks56
 \t@pgfplots@tokc=\toks57
-\pgfplots@tmpa=\dimen374
-\c@pgfplots@coordindex=\count401
-\c@pgfplots@scanlineindex=\count402
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
-sysgeneric.code.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
-slibrary.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
-ib\pgfplotsoldpgfsupp_loader.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryfpu.code.tex)
+\pgfplots@tmpa=\dimen382
+\c@pgfplots@coordindex=\count423
+\c@pgfplots@scanlineindex=\count424
+ (E:\apps\mitek\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (E:\apps\mitek\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (E:\apps\mitek\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (E:\apps\mitek\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
 \t@pgf@toka=\toks58
 \t@pgf@tokb=\toks59
 \t@pgf@tokc=\toks60
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
-ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
-sutil.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
-e\pgfplotsliststructure.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
-e\pgfplotsliststructureext.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
-e\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count403
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
-e\pgfplotsmatrix.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
-plotstableshared.code.tex
-\c@pgfplotstable@counta=\count404
+(E:\apps\mitek\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (E:\apps\mitek\tex/generic/pgfplots/util\pgfplotsutil.code.tex (E:\apps\mitek\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (E:\apps\mitek\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (E:\apps\mitek\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count425
+) (E:\apps\mitek\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (E:\apps\mitek\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count426
 \t@pgfplotstable@a=\toks61
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
-e\pgfplotsdeque.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
-sbinary.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
-sbinary.data.code.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
-sutil.verb.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
-arypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count405
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
-rypgfplots.surfshading.pgfsys-pdftex.def)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
-scolormap.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
-scolor.code.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
-kedplots.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
-handlers.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
-plothandler.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
-plotimage.code.tex)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
-ling.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
-dprocessing.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
-orbars.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
-kers.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
-s.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
-hs.code.tex)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.pathreplacing.code.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
-rarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count406
-\pgfplots@xmin@reg=\dimen375
-\pgfplots@xmax@reg=\dimen376
-\pgfplots@ymin@reg=\dimen377
-\pgfplots@ymax@reg=\dimen378
-\pgfplots@zmin@reg=\dimen379
-\pgfplots@zmax@reg=\dimen380
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplotmarks.code.tex
-File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+) (E:\apps\mitek\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (E:\apps\mitek\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (E:\apps\mitek\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (E:\apps\mitek\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (E:\apps\mitek\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count427
+ (E:\apps\mitek\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (E:\apps\mitek\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (E:\apps\mitek\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (E:\apps\mitek\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (E:\apps\mitek\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (E:\apps\mitek\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (E:\apps\mitek\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (E:\apps\mitek\tex/generic/pgfplots\pgfplots.scaling.code.tex) (E:\apps\mitek\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (E:\apps\mitek\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (E:\apps\mitek\tex/generic/pgfplots\pgfplots.markers.code.tex) (E:\apps\mitek\tex/generic/pgfplots\pgfplotsticks.code.tex) (E:\apps\mitek\tex/generic/pgfplots\pgfplots.paths.code.tex) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (E:\apps\mitek\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (E:\apps\mitek\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count428
+\pgfplots@xmin@reg=\dimen383
+\pgfplots@xmax@reg=\dimen384
+\pgfplots@ymin@reg=\dimen385
+\pgfplots@ymax@reg=\dimen386
+\pgfplots@zmin@reg=\dimen387
+\pgfplots@zmax@reg=\dimen388
+) (E:\apps\mitek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (E:\apps\mitek\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (E:\apps\mitek\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
-etadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
-F (HO)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+ (E:\apps\mitek\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (E:\apps\mitek\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+)) (E:\apps\mitek\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count407
-\csq@gtype=\count408
-\csq@glevel=\count409
-\csq@qlevel=\count410
-\csq@maxlvl=\count411
-\csq@tshold=\count412
+\csq@reset=\count429
+\csq@gtype=\count430
+\csq@glevel=\count431
+\csq@qlevel=\count432
+\csq@maxlvl=\count433
+\csq@tshold=\count434
 \csq@ltx@everypar=\toks62
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+ (E:\apps\mitek\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+ (E:\apps\mitek\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-)) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
-y
+)) (E:\apps\mitek\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
-\multirow@colwidth=\skip110
-\multirow@cntb=\count413
-\multirow@dima=\skip111
-\bigstrutjot=\dimen381
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count414
-\U@D=\dimen382
+\multirow@colwidth=\skip111
+\multirow@cntb=\count435
+\multirow@dima=\skip112
+\bigstrutjot=\dimen389
+) (E:\apps\mitek\tex/generic/babel\babel.sty
+Package: babel 2025/10/01 v25.13 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count436
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
+\U@D=\dimen390
 \l@unhyphenated=\language79
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (E:\apps\mitek\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read5
-LaTeX Info: Redefining \textlatin on input line 3986.
-\bbl@dirlevel=\count415
+LaTeX Info: Redefining \textlatin on input line 3930.
+\bbl@dirlevel=\count437
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
-df
+(E:\apps\mitek\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (E:\apps\mitek\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
+ (E:\apps\mitek\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 12.
+)
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
--english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+)) (E:\apps\mitek\tex/latex/gensymb\gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
 
 
-! LaTeX Error: Command \degree already defined.
+E:\apps\mitek\tex/latex/gensymb\gensymb.sty:34: LaTeX Error: Command \degree already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1852,104 +1411,92 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+) (E:\apps\mitek\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+ (E:\apps\mitek\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+ (E:\apps\mitek\tex/generic/xkeyval\xkeyval.tex (E:\apps\mitek\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks63
 \XKV@tempa@toks=\toks64
 )
-\XKV@depth=\count416
+\XKV@depth=\count438
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
--ends (calc, etex, pgfmath)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+)) (E:\apps\mitek\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (E:\apps\mitek\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
-ty
+ (E:\apps\mitek\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box97
+\collectedbox=\box98
 )
-\tc@llx=\dimen383
-\tc@lly=\dimen384
-\tc@urx=\dimen385
-\tc@ury=\dimen386
+\tc@llx=\dimen391
+\tc@lly=\dimen392
+\tc@urx=\dimen393
+\tc@ury=\dimen394
 Package trimclip Info: Using driver 'tc-pdftex.def'.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+ (E:\apps\mitek\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen387
-\adjbox@Height=\dimen388
-\adjbox@Depth=\dimen389
-\adjbox@Totalheight=\dimen390
-\adjbox@pwidth=\dimen391
-\adjbox@pheight=\dimen392
-\adjbox@pdepth=\dimen393
-\adjbox@ptotalheight=\dimen394
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+\adjbox@Width=\dimen395
+\adjbox@Height=\dimen396
+\adjbox@Depth=\dimen397
+\adjbox@Totalheight=\dimen398
+\adjbox@pwidth=\dimen399
+\adjbox@pheight=\dimen400
+\adjbox@pdepth=\dimen401
+\adjbox@ptotalheight=\dimen402
+ (E:\apps\mitek\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count417
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+\c@checkoddpage=\count439
+) (E:\apps\mitek\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box98
-\sift@deathcycles=\count418
-\@vwid@loff=\dimen395
-\@vwid@roff=\dimen396
-))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
-\f@nch@headwidth=\skip112
-\f@nch@offset@elh=\skip113
-\f@nch@offset@erh=\skip114
-\f@nch@offset@olh=\skip115
-\f@nch@offset@orh=\skip116
-\f@nch@offset@elf=\skip117
-\f@nch@offset@erf=\skip118
-\f@nch@offset@olf=\skip119
-\f@nch@offset@orf=\skip120
-\f@nch@height=\skip121
-\f@nch@footalignment=\skip122
-\f@nch@widthL=\skip123
-\f@nch@widthC=\skip124
-\f@nch@widthR=\skip125
-\@temptokenb=\toks65
+\@vwid@box=\box99
+\sift@deathcycles=\count440
+\@vwid@loff=\dimen403
+\@vwid@roff=\dimen404
 )
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
-Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count419
-\mult@box=\box99
-\multicol@leftmargin=\dimen397
-\c@unbalance=\count420
-\c@collectmore=\count421
-\doublecol@number=\count422
-\multicoltolerance=\count423
-\multicolpretolerance=\count424
-\full@width=\dimen398
-\page@free=\dimen399
-\premulticols=\dimen400
-\postmulticols=\dimen401
-\multicolsep=\skip126
-\multicolbaselineskip=\skip127
-\partial@page=\box100
-\last@line=\box101
-\mc@boxedresult=\box102
-\maxbalancingoverflow=\dimen402
-\mult@rightbox=\box103
-\mult@grightbox=\box104
-\mult@firstbox=\box105
-\mult@gfirstbox=\box106
-\@tempa=\box107
+==> First Aid for varwidth.sty applied!
+) (E:\apps\mitek\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip113
+\f@nch@offset@elh=\skip114
+\f@nch@offset@erh=\skip115
+\f@nch@offset@olh=\skip116
+\f@nch@offset@orh=\skip117
+\f@nch@offset@elf=\skip118
+\f@nch@offset@erf=\skip119
+\f@nch@offset@olf=\skip120
+\f@nch@offset@orf=\skip121
+\f@nch@height=\skip122
+\f@nch@footalignment=\skip123
+\f@nch@widthL=\skip124
+\f@nch@widthC=\skip125
+\f@nch@widthR=\skip126
+\@temptokenb=\toks65
+) (E:\apps\mitek\tex/latex/tools\multicol.sty
+Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
+\c@tracingmulticols=\count441
+\mult@box=\box100
+\multicol@leftmargin=\dimen405
+\c@unbalance=\count442
+\c@collectmore=\count443
+\doublecol@number=\count444
+\multicoltolerance=\count445
+\multicolpretolerance=\count446
+\full@width=\dimen406
+\page@free=\dimen407
+\premulticols=\dimen408
+\postmulticols=\dimen409
+\multicolsep=\skip127
+\multicolbaselineskip=\skip128
+\partial@page=\box101
+\last@line=\box102
+\mc@boxedresult=\box103
+\maxbalancingoverflow=\dimen410
+\mult@rightbox=\box104
+\mult@grightbox=\box105
+\mult@firstbox=\box106
+\mult@gfirstbox=\box107
 \@tempa=\box108
 \@tempa=\box109
 \@tempa=\box110
@@ -1985,164 +1532,140 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box140
 \@tempa=\box141
 \@tempa=\box142
-\c@minrows=\count425
-\c@columnbadness=\count426
-\c@finalcolumnbadness=\count427
-\last@try=\dimen403
-\multicolovershoot=\dimen404
-\multicolundershoot=\dimen405
-\mult@nat@firstbox=\box143
-\colbreak@box=\box144
-\mc@col@check@num=\count428
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.s
-ty
+\@tempa=\box143
+\c@minrows=\count447
+\c@columnbadness=\count448
+\c@finalcolumnbadness=\count449
+\last@try=\dimen411
+\multicolovershoot=\dimen412
+\multicolundershoot=\dimen413
+\mult@nat@firstbox=\box144
+\colbreak@box=\box145
+\mc@col@check@num=\count450
+\g__mc_curr_col_int=\count451
+) (E:\apps\mitek\tex/latex/epstopdf-pkg\epstopdf.sty
 Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
- (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+ (E:\apps\mitek\tex/latex/grfext\grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (E:\apps\mitek\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+ (E:\apps\mitek\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+))) (E:\apps\mitek\tex/latex/siunitx\siunitx.sty
 Package: siunitx 2025-07-09 v3.4.14 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count429
-\l__siunitx_number_exponent_fixed_int=\count430
-\l__siunitx_number_min_decimal_int=\count431
-\l__siunitx_number_min_integer_int=\count432
-\l__siunitx_number_round_precision_int=\count433
-\l__siunitx_number_lower_threshold_int=\count434
-\l__siunitx_number_upper_threshold_int=\count435
-\l__siunitx_number_group_first_int=\count436
-\l__siunitx_number_group_size_int=\count437
-\l__siunitx_number_group_minimum_int=\count438
-\l__siunitx_angle_tmp_dim=\dimen406
-\l__siunitx_angle_marker_box=\box145
-\l__siunitx_angle_unit_box=\box146
-\l__siunitx_compound_count_int=\count439
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
-ns.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
- (CN)
+\l__siunitx_number_uncert_offset_int=\count452
+\l__siunitx_number_exponent_fixed_int=\count453
+\l__siunitx_number_min_decimal_int=\count454
+\l__siunitx_number_min_integer_int=\count455
+\l__siunitx_number_round_precision_int=\count456
+\l__siunitx_number_lower_threshold_int=\count457
+\l__siunitx_number_upper_threshold_int=\count458
+\l__siunitx_number_group_first_int=\count459
+\l__siunitx_number_group_size_int=\count460
+\l__siunitx_number_group_minimum_int=\count461
+\l__siunitx_angle_tmp_dim=\dimen414
+\l__siunitx_angle_marker_box=\box146
+\l__siunitx_angle_unit_box=\box147
+\l__siunitx_compound_count_int=\count462
+ (E:\apps\mitek\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
 )
-\l__siunitx_table_tmp_box=\box147
-\l__siunitx_table_tmp_dim=\dimen407
-\l__siunitx_table_column_width_dim=\dimen408
-\l__siunitx_table_integer_box=\box148
-\l__siunitx_table_decimal_box=\box149
-\l__siunitx_table_uncert_box=\box150
-\l__siunitx_table_before_box=\box151
-\l__siunitx_table_after_box=\box152
-\l__siunitx_table_before_dim=\dimen409
-\l__siunitx_table_carry_dim=\dimen410
-\l__siunitx_unit_tmp_int=\count440
-\l__siunitx_unit_position_int=\count441
-\l__siunitx_unit_total_int=\count442
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+\l__siunitx_table_tmp_box=\box148
+\l__siunitx_table_tmp_dim=\dimen415
+\l__siunitx_table_column_width_dim=\dimen416
+\l__siunitx_table_integer_box=\box149
+\l__siunitx_table_decimal_box=\box150
+\l__siunitx_table_uncert_box=\box151
+\l__siunitx_table_before_box=\box152
+\l__siunitx_table_after_box=\box153
+\l__siunitx_table_before_dim=\dimen417
+\l__siunitx_table_carry_dim=\dimen418
+\l__siunitx_unit_tmp_int=\count463
+\l__siunitx_unit_position_int=\count464
+\l__siunitx_unit_total_int=\count465
+) (E:\apps\mitek\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 LaTeX Info: Redefining \subref on input line 189.
 Package subcaption Info: The counter `subfigure' was already defined by
-(subcaption)             \newsubfloat (offered by the subfig package) on input 
-line 238.
+(subcaption)             \newsubfloat (offered by the subfig package) on input line 238.
 Package subcaption Info: The counter `subtable' was already defined by
-(subcaption)             \newsubfloat (offered by the subfig package) on input 
-line 238.
-) (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
-eys2e.sty
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-01-04 L3 programming layer (loader) 
+(subcaption)             \newsubfloat (offered by the subfig package) on input line 238.
+) (E:\apps\mitek\tex/latex/lipsum\lipsum.sty (E:\apps\mitek\tex/latex/l3packages/l3keys2e\l3keys2e.sty (E:\apps\mitek\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-09-02 L3 programming layer (loader) 
 )
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count443
-\l__lipsum_a_int=\count444
-\l__lipsum_b_int=\count445
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
+\g__lipsum_par_int=\count466
+\l__lipsum_a_int=\count467
+\l__lipsum_b_int=\count468
+ (E:\apps\mitek\tex/latex/lipsum\lipsum.ltd.tex)) (E:\apps\mitek\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks66
 \inpenc@posthook=\toks67
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.st
-y
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
-nment
- (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (E:\apps\mitek\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (E:\apps\mitek\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count446
+\c@float@type=\count469
 \float@exts=\toks68
-\float@box=\box153
+\float@box=\box154
 \@float@everytoks=\toks69
-\@floatcapt=\box154
+\@floatcapt=\box155
 )
 \@float@every@algorithm=\toks70
-\c@algorithm=\count447
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algorithm2e
-.sty
+\c@algorithm=\count470
+) (E:\apps\mitek\tex/latex/algorithm2e\algorithm2e.sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count448
-\algocf@hangindent=\skip128
- (C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+\c@AlgoLine=\count471
+\algocf@hangindent=\skip129
+ (E:\apps\mitek\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+) (E:\apps\mitek\tex/latex/relsize\relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\skiptotal=\skip129
-\skiplinenumber=\skip130
-\skiprule=\skip131
-\skiphlne=\skip132
-\skiptext=\skip133
-\skiplength=\skip134
-\algomargin=\skip135
-\skipalgocfslide=\skip136
-\algowidth=\dimen411
-\inoutsize=\dimen412
-\inoutindent=\dimen413
-\interspacetitleruled=\dimen414
-\interspacealgoruled=\dimen415
-\interspacetitleboxruled=\dimen416
-\algocf@ruledwidth=\skip137
-\algocf@inoutbox=\box155
-\algocf@inputbox=\box156
-\AlCapSkip=\skip138
-\AlCapHSkip=\skip139
-\algoskipindent=\skip140
-\algocf@nlbox=\box157
-\algocf@hangingbox=\box158
-\algocf@untilbox=\box159
-\algocf@skipuntil=\skip141
-\algocf@capbox=\box160
-\algocf@lcaptionbox=\skip142
-\algoheightruledefault=\skip143
-\algoheightrule=\skip144
-\algotitleheightruledefault=\skip145
-\algotitleheightrule=\skip146
-\c@algocfline=\count449
-\c@algocfproc=\count450
-\c@algocf=\count451
-\algocf@algoframe=\box161
-\algocf@algobox=\box162
+\skiptotal=\skip130
+\skiplinenumber=\skip131
+\skiprule=\skip132
+\skiphlne=\skip133
+\skiptext=\skip134
+\skiplength=\skip135
+\algomargin=\skip136
+\skipalgocfslide=\skip137
+\algowidth=\dimen419
+\inoutsize=\dimen420
+\inoutindent=\dimen421
+\interspacetitleruled=\dimen422
+\interspacealgoruled=\dimen423
+\interspacetitleboxruled=\dimen424
+\algocf@ruledwidth=\skip138
+\algocf@inoutbox=\box156
+\algocf@inputbox=\box157
+\AlCapSkip=\skip139
+\AlCapHSkip=\skip140
+\algoskipindent=\skip141
+\algocf@nlbox=\box158
+\algocf@hangingbox=\box159
+\algocf@untilbox=\box160
+\algocf@skipuntil=\skip142
+\algocf@capbox=\box161
+\algocf@lcaptionbox=\skip143
+\algoheightruledefault=\skip144
+\algoheightrule=\skip145
+\algotitleheightruledefault=\skip146
+\algotitleheightrule=\skip147
+\c@algocfline=\count472
+\c@algocfproc=\count473
+\c@algocf=\count474
+\algocf@algoframe=\box162
+\algocf@algobox=\box163
 
 
-! LaTeX Error: Command \algorithm already defined.
+E:\apps\mitek\tex/latex/algorithm2e\algorithm2e.sty:2746: LaTeX Error: Command \algorithm already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2156,7 +1679,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \algorithm* already defined.
+E:\apps\mitek\tex/latex/algorithm2e\algorithm2e.sty:2754: LaTeX Error: Command \algorithm* already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2170,7 +1693,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Command \listofalgorithms already defined.
+E:\apps\mitek\tex/latex/algorithm2e\algorithm2e.sty:2761: LaTeX Error: Command \listofalgorithms already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2195,50 +1718,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-(main.aux
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:enter-label' multiply defined.
-
-
-LaTeX Warning: Label `fig:asianpaints' multiply defined.
-
-
-LaTeX Warning: Label `fig:adaniports' multiply defined.
-
-
-LaTeX Warning: Label `fig:asianpaints' multiply defined.
-
-
-LaTeX Warning: Label `fig:adaniports' multiply defined.
-
-
-LaTeX Warning: Label `fig:asianpaints' multiply defined.
-
-
-LaTeX Warning: Label `fig:adaniports' multiply defined.
-
-)
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
@@ -2294,24 +1774,21 @@ LaTeX Font Info:    ... okay on input line 126.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(E:\apps\mitek\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count452
-\scratchdimen=\dimen417
-\scratchbox=\box163
-\nofMPsegments=\count453
-\nofMParguments=\count454
+\scratchcounter=\count475
+\scratchdimen=\dimen425
+\scratchbox=\box164
+\nofMPsegments=\count476
+\nofMParguments=\count477
 \everyMPshowfont=\toks71
-\MPscratchCnt=\count455
-\MPscratchDim=\dimen418
-\MPnumerator=\count456
-\makeMPintoPDFobject=\count457
+\MPscratchCnt=\count478
+\MPscratchDim=\dimen426
+\MPnumerator=\count479
+\makeMPintoPDFobject=\count480
 \everyMPtoPDFconversion=\toks72
 )
 Package hyperref Info: Link coloring OFF on input line 126.
- (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -2359,37 +1836,22 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 126.
 LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 126.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-26.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 126.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-26.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 126.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 126.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
-asic-dictionary-English.dict
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 126.
+ (E:\apps\mitek\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
-ibliography-dictionary-English.dict
+) (E:\apps\mitek\tex/latex/translator\translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-e
-nvironment-dictionary-English.dict
+) (E:\apps\mitek\tex/latex/translator\translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-m
-onths-dictionary-English.dict
+) (E:\apps\mitek\tex/latex/translator\translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-n
-umbers-dictionary-English.dict
+) (E:\apps\mitek\tex/latex/translator\translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
-)
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
-heorem-dictionary-English.dict
+) (E:\apps\mitek\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Command `\dddot' is already robust on input line 126.
@@ -2398,8 +1860,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+ (E:\apps\mitek\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: subfigure package is loaded.
@@ -2407,9 +1868,7 @@ Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
-your preamble.
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
  on input line 126.
 
 \symgns@font=\mathgroup11
@@ -2418,19 +1877,14 @@ LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 Package gensymb Info: Math companion symbols declared on input line 126.
 LaTeX Info: Redefining \degree on input line 126.
 LaTeX Info: Redefining \celsius on input line 126.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 126.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 126.
 LaTeX Info: Redefining \ohm on input line 126.
 Package gensymb Info: Using \textohm for \ohm on input line 126.
 Package gensymb Info: Using \textmu for \micro on input line 126.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
-slations-basic-dictionary-english.trsl
-File: translations-basic-dictionary-english.trsl (english translation file `tra
-nslations-basic-dictionary')
+(E:\apps\mitek\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 126.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 126.
  (main.nav)
 Overfull \hbox (424.1998pt too wide) in paragraph at lines 126--126
  [][]  \OT1/cmss/bx/n/6 ([])  
@@ -2442,7 +1896,7 @@ Overfull \hbox (1.81996pt too wide) in paragraph at lines 164--164
  []
 
 
-! LaTeX Error: There's no line here to end.
+d:/Supriya/Presentation-Overleaf-Document--1-/main.tex:164: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2454,11 +1908,12 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<1200px-NIT_Rourkela_Colour_Logo.svg.png, id=77, 1204.5pt x 1204.5pt>
+
+
+<1200px-NIT_Rourkela_Colour_Logo.svg.png, id=29, 1204.5pt x 1204.5pt>
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 164.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 164.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2467,17 +1922,17 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [1
 
-{C:/Users/supri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./1200px-NIT
-_Rourkela_Colour_Logo.svg.png>]
+{C:/Users/biswa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./1200px-NIT_Rourkela_Colour_Logo.svg.png>]
 Overfull \hbox (1.81996pt too wide) in paragraph at lines 176--176
 [][]  
  []
 
-(main.toc)
+No file main.toc.
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 180.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 180.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2487,14 +1942,15 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 [2
 
 ]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 210--210
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 205--205
 [][]  
  []
 
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 210.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 205.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2504,200 +1960,142 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 [3
 
 ]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 259--259
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 242--242
 [][]  
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 259
-.
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 242.
+(E:\apps\mitek\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 259
-.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 242.
+ (E:\apps\mitek\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 259.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
-erncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 242.
+ (E:\apps\mitek\tex/latex/sansmathaccent\ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-259.
-
-(C:\Users\supri\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
-File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.259 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.259 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.259 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.259 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.259 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.259 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.259 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   &
-l.259 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
-
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   &
-l.259 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
-
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   &
-l.259 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
-
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   &
-l.259 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
-
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   &
-l.259 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
-
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   &
-l.259 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
-
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   \cr 
-l.259 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
-
-
-Package natbib Warning: Citation `12' on page 4 undefined on input line 259.
-
-
-Package natbib Warning: Citation `2' on page 4 undefined on input line 259.
-
-
-Package natbib Warning: Citation `9' on page 4 undefined on input line 259.
-
-
-Package natbib Warning: Citation `1' on page 4 undefined on input line 259.
-
-
-Package natbib Warning: Citation `Bootstrap' on page 4 undefined on input line 
-259.
-
-
-Overfull \hbox (1130.78961pt too wide) in paragraph at lines 259--259
- [] 
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/bx/n/10.95 Representative
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/bx/n/10.95 Fusion/Training
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 TF{IDF
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\OT1/cmss/m/n/10.95 SVM/LogReg;
+ []
+
+
+Package natbib Warning: Citation `kwon2017rumor' on page 4 undefined on input line 242.
+
+
+Package natbib Warning: Citation `ma2016detecting' on page 4 undefined on input line 242.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 2015{2018
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 Visual ma-nip-u-la-tion
+ []
+
+
+Package natbib Warning: Citation `zhou2017learning' on page 4 undefined on input line 242.
+
+
+Package natbib Warning: Citation `wang2018eann' on page 4 undefined on input line 242.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 2018{2021 (Late
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 CNN/RNN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 Feature con-cate-na-
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 First mul-ti-modal gains;
+ []
+
+
+Package natbib Warning: Citation `khattar2019mvae' on page 4 undefined on input line 242.
+
+
+Package natbib Warning: Citation `singhal2019spotfake' on page 4 undefined on input line 242.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 VisualBERT, ViL-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 Co-/cross-attention;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\OT1/cmss/m/n/10.95 joint con-tex-tu-al-iza-
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 Learned align-ment and
+ []
+
+
+Package natbib Warning: Citation `li2019visualbert' on page 4 undefined on input line 242.
+
+
+Package natbib Warning: Citation `lu2019vilbert' on page 4 undefined on input line 242.
+
+
+Package natbib Warning: Citation `tan2019lxmert' on page 4 undefined on input line 242.
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 After 2022 (Ad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/cmss/m/n/10.95 MMBT, UNITER,
+ []
+
+
+Package natbib Warning: Citation `kiela2019supervised' on page 4 undefined on input line 242.
+
+
+Package natbib Warning: Citation `chen2020uniter' on page 4 undefined on input line 242.
+
+
+Package natbib Warning: Citation `li2020oscar' on page 4 undefined on input line 242.
+
+
 
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 259.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 242.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2707,31 +2105,15 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 [4
 
 ]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 273--273
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 261--261
 [][]  
  []
 
-<Classification Of Probabilistic Methods.jpg, id=236, 1089.31969pt x 396.7322pt
->
-File: Classification Of Probabilistic Methods.jpg Graphic file (type jpg)
-<use Classification Of Probabilistic Methods.jpg>
-Package pdftex.def Info: Classification Of Probabilistic Methods.jpg  used on i
-nput line 273.
-(pdftex.def)             Requested size: 329.15642pt x 119.87413pt.
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 273--273
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--273
-
- []
 
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 273.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 261.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2740,15 +2122,19 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [5
 
- <./Classification Of Probabilistic Methods.jpg>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 281--281
+]
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 305--305
 [][]  
  []
 
+
+LaTeX Warning: Reference `tab:dataset_summary' on page 6 undefined on input line 305.
+
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 281.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 305.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2758,14 +2144,24 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 [6
 
 ]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 290--290
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 318--318
 [][]  
  []
 
+<Spot fake design.png, id=238, 523.20468pt x 514.92375pt>
+File: Spot fake design.png Graphic file (type png)
+<use Spot fake design.png>
+Package pdftex.def Info: Spot fake design.png  used on input line 318.
+(pdftex.def)             Requested size: 173.33496pt x 170.58536pt.
+
+Overfull \vbox (1.2292pt too high) detected at line 318
+ []
+
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 290.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 318.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2774,15 +2170,16 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [7
 
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 311--311
+ <./Spot fake design.png>]
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 322--322
 [][]  
  []
 
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 311.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 322.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2792,34 +2189,15 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 [8
 
 ]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 344--344
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 336--336
 [][]  
  []
 
-! Undefined control sequence.
-<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
-                                                  \@endpbox \do@row@strut \o...
-l.344 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Missing # inserted in alignment preamble.
-<to be read again> 
-                   &
-l.344 \end{frame}
-                 
-There should be exactly one # between &'s, when an
-\halign or \valign is being set up. In this case you had
-none, so I've put one in; maybe that will work.
 
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 344.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 336.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2829,14 +2207,18 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 [9
 
 ]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 358--358
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 359--359
 [][]  
  []
 
+
+LaTeX Warning: Reference `tab:model_comparison' on page 10 undefined on input line 359.
+
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 358.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 359.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2846,26 +2228,20 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 [10
 
 ]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 374--374
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 370--370
 [][]  
  []
 
-<TLUBE.png, id=416, 384.43625pt x 298.61563pt>
-File: TLUBE.png Graphic file (type png)
-<use TLUBE.png>
-Package pdftex.def Info: TLUBE.png  used on input line 374.
-(pdftex.def)             Requested size: 216.67201pt x 168.30806pt.
+<vgg19_graph.png, id=369, 452.892pt x 151.2852pt>
+File: vgg19_graph.png Graphic file (type png)
+<use vgg19_graph.png>
+Package pdftex.def Info: vgg19_graph.png  used on input line 370.
+(pdftex.def)             Requested size: 368.34506pt x 123.04587pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.374 \end{frame}
-                 
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 374.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 370.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2874,15 +2250,21 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [11
 
- <./TLUBE.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 416--416
+ <./vgg19_graph.png>]
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 379--379
 [][]  
  []
 
+<resnet50_graph.png, id=404, 452.892pt x 191.7564pt>
+File: resnet50_graph.png Graphic file (type png)
+<use resnet50_graph.png>
+Package pdftex.def Info: resnet50_graph.png  used on input line 379.
+(pdftex.def)             Requested size: 368.34506pt x 155.9626pt.
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 416.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 379.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2891,27 +2273,16 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [12
 
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 425--425
+ <./resnet50_graph.png>]
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 385--385
 [][]  
  []
 
-<ALUBE.png, id=483, 381.425pt x 297.11pt>
-File: ALUBE.png Graphic file (type png)
-<use ALUBE.png>
-Package pdftex.def Info: ALUBE.png  used on input line 425.
-(pdftex.def)             Requested size: 216.67201pt x 168.77415pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.425 \end{frame}
-                 
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 425.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 385.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2920,15 +2291,26 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [13
 
- <./ALUBE.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 467--467
+]
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 415--415
 [][]  
  []
 
+<contrastive_learning.png, id=469, 294.3798pt x 197.0562pt>
+File: contrastive_learning.png Graphic file (type png)
+<use contrastive_learning.png>
+Package pdftex.def Info: contrastive_learning.png  used on input line 415.
+(pdftex.def)             Requested size: 125.66685pt x 84.11911pt.
+<cross-attention.png, id=470, 452.892pt x 278.9622pt>
+File: cross-attention.png Graphic file (type png)
+<use cross-attention.png>
+Package pdftex.def Info: cross-attention.png  used on input line 415.
+(pdftex.def)             Requested size: 177.67262pt x 109.43756pt.
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 467.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 415.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2937,27 +2319,16 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [14
 
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 476--476
+ <./contrastive_learning.png> <./cross-attention.png>]
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 428--428
 [][]  
  []
 
-<QR_based.png, id=546, 378.41376pt x 298.61563pt>
-File: QR_based.png Graphic file (type png)
-<use QR_based.png>
-Package pdftex.def Info: QR_based.png  used on input line 476.
-(pdftex.def)             Requested size: 216.67201pt x 170.98273pt.
+(main.bbl)
 
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.476 \end{frame}
-                 
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 476.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 428.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2966,15 +2337,16 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 [15
 
- <./QR_based.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 518--518
+]
+Overfull \hbox (1.81996pt too wide) in paragraph at lines 435--435
 [][]  
  []
 
+
+
 File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
 <use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 518.
+Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input line 435.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
 Overfull \hbox (1.81996pt too wide) has occurred while \output is active
@@ -2982,1091 +2354,6 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
  []
 
 [16
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 527--527
-[][]  
- []
-
-<Bootstrap.png, id=608, 382.42876pt x 294.09875pt>
-File: Bootstrap.png Graphic file (type png)
-<use Bootstrap.png>
-Package pdftex.def Info: Bootstrap.png  used on input line 527.
-(pdftex.def)             Requested size: 216.67201pt x 166.62831pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.527 \end{frame}
-                 
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 527.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[17
-
- <./Bootstrap.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 566--566
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 566.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[18
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 575--575
-[][]  
- []
-
-<GD.png, id=670, 379.91937pt x 113.42375pt>
-File: GD.png Graphic file (type png)
-<use GD.png>
-Package pdftex.def Info: GD.png  used on input line 575.
-(pdftex.def)             Requested size: 260.00905pt x 77.62729pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.575 \end{frame}
-                 
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 575.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[19
-
- <./GD.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 605--605
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 605.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[20
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 614--614
-[][]  
- []
-
-<WD.png, id=733, 382.93062pt x 108.405pt>
-File: WD.png Graphic file (type png)
-<use WD.png>
-Package pdftex.def Info: WD.png  used on input line 614.
-(pdftex.def)             Requested size: 260.00905pt x 73.6102pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.614 \end{frame}
-                 
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 614.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[21
-
- <./WD.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 646--646
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 646.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[22
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 655--655
-[][]  
- []
-
-<LUBE_Weibull.png, id=795, 382.93062pt x 297.11pt>
-File: LUBE_Weibull.png Graphic file (type png)
-<use LUBE_Weibull.png>
-Package pdftex.def Info: LUBE_Weibull.png  used on input line 655.
-(pdftex.def)             Requested size: 216.67201pt x 168.11226pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.655 \end{frame}
-                 
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 655.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[23
-
- <./LUBE_Weibull.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 703--703
-[][]  
- []
-
-
-Overfull \vbox (8.0002pt too high) detected at line 703
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 703.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[24
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 712--712
-[][]  
- []
-
-<LUBE_QR.png, id=857, 383.4325pt x 302.63063pt>
-File: LUBE_QR.png Graphic file (type png)
-<use LUBE_QR.png>
-Package pdftex.def Info: LUBE_QR.png  used on input line 712.
-(pdftex.def)             Requested size: 216.67201pt x 171.01433pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
-el}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.712 \end{frame}
-                 
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 712.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[25
-
- <./LUBE_QR.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 768--768
-[][]  
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 768--768
-
- []
-
-
-Overfull \vbox (11.50737pt too high) detected at line 768
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 768.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[26
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 777--777
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 777.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[27
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 820--820
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.820 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 820 ended by \end{table
-*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.820 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 820.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[28
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 845--845
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.845 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 845 ended by \end{table
-*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.845 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 845.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[29
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 882--882
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.882 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 882 ended by \end{table
-*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.882 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 882.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[30
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 916--916
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.916 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 916 ended by \end{table
-*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.916 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 916.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[31
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 953--953
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.953 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 953 ended by \end{table
-*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.953 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 953.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[32
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 985--985
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.985 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 985 ended by \end{table
-*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.985 \end{frame}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 985.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[33
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1022--1022
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1022 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 1022 ended by \end{tabl
-e*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1022 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1022.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[34
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1054--1054
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1054 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 1054 ended by \end{tabl
-e*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1054 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1054.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[35
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1090--1090
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1090 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 1090 ended by \end{tabl
-e*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1090 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1090.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[36
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1126--1126
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1126 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 1126 ended by \end{tabl
-e*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1126 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1126.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[37
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1162--1162
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1162 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 1162 ended by \end{tabl
-e*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1162 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1162.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[38
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1195--1195
-[][]  
- []
-
-
-! LaTeX Error: Environment table* undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1195 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{beamer@framepauses} on input line 1195 ended by \end{tabl
-e*}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1195 \end{frame}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1195.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[39
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1216--1216
-[][]  
- []
-
-<LUBE_LSTM_AsianPaints.png, id=1314, 784.43062pt x 404.00937pt>
-File: LUBE_LSTM_AsianPaints.png Graphic file (type png)
-<use LUBE_LSTM_AsianPaints.png>
-Package pdftex.def Info: LUBE_LSTM_AsianPaints.png  used on input line 1216.
-(pdftex.def)             Requested size: 177.67262pt x 91.50232pt.
-<CNN_advanced_lube_plot_ADANIPORTS.png, id=1315, 867.24pt x 433.62pt>
-File: CNN_advanced_lube_plot_ADANIPORTS.png Graphic file (type png)
-<use CNN_advanced_lube_plot_ADANIPORTS.png>
-Package pdftex.def Info: CNN_advanced_lube_plot_ADANIPORTS.png  used on input l
-ine 1216.
-(pdftex.def)             Requested size: 216.67201pt x 108.33194pt.
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1216.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[40
-
- <./LUBE_LSTM_AsianPaints.png> <./CNN_advanced_lube_plot_ADANIPORTS.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1237--1237
-[][]  
- []
-
-<QR_CNN_AxisBank.png, id=1350, 762.34813pt x 400.49625pt>
-File: QR_CNN_AxisBank.png Graphic file (type png)
-<use QR_CNN_AxisBank.png>
-Package pdftex.def Info: QR_CNN_AxisBank.png  used on input line 1237.
-(pdftex.def)             Requested size: 195.00348pt x 102.43991pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:asianpain
-ts}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1237 \end{frame}
-                  
-<Prediction_Intervals_Styled_GRU_Electricity_Consumption.png, id=1351, 867.24pt
- x 433.62pt>
-File: Prediction_Intervals_Styled_GRU_Electricity_Consumption.png Graphic file 
-(type png)
-<use Prediction_Intervals_Styled_GRU_Electricity_Consumption.png>
-Package pdftex.def Info: Prediction_Intervals_Styled_GRU_Electricity_Consumptio
-n.png  used on input line 1237.
-(pdftex.def)             Requested size: 195.00348pt x 97.50073pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:adaniport
-s}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1237 \end{frame}
-                  
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1237.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[41
-
- <./QR_CNN_AxisBank.png> <./Prediction_Intervals_Styled_GRU_Electricity_Consump
-tion.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1260--1260
-[][]  
- []
-
-<Gaussian_Web_Traffic.png, id=1384, 827.09pt x 441.65pt>
-File: Gaussian_Web_Traffic.png Graphic file (type png)
-<use Gaussian_Web_Traffic.png>
-Package pdftex.def Info: Gaussian_Web_Traffic.png  used on input line 1260.
-(pdftex.def)             Requested size: 195.00348pt x 104.12471pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:asianpain
-ts}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1260 \end{frame}
-                  
-<Weibull_AdaniPorts.png, id=1385, 840.64063pt x 440.14438pt>
-File: Weibull_AdaniPorts.png Graphic file (type png)
-<use Weibull_AdaniPorts.png>
-Package pdftex.def Info: Weibull_AdaniPorts.png  used on input line 1260.
-(pdftex.def)             Requested size: 195.00348pt x 102.09744pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:adaniport
-s}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1260 \end{frame}
-                  
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1260.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[42
-
- <./Gaussian_Web_Traffic.png> <./Weibull_AdaniPorts.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1281--1281
-[][]  
- []
-
-<CNN_hybrid_method_plot_AsianPaint_Method2.png, id=1418, 462.528pt x 346.896pt>
-
-File: CNN_hybrid_method_plot_AsianPaint_Method2.png Graphic file (type png)
-<use CNN_hybrid_method_plot_AsianPaint_Method2.png>
-Package pdftex.def Info: CNN_hybrid_method_plot_AsianPaint_Method2.png  used on
- input line 1281.
-(pdftex.def)             Requested size: 195.00348pt x 146.2511pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:asianpain
-ts}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1281 \end{frame}
-                  
-<Hybrid_LUBE_QR_AllConfidence_axisbank_LSTM.png, id=1419, 867.24pt x 433.62pt>
-File: Hybrid_LUBE_QR_AllConfidence_axisbank_LSTM.png Graphic file (type png)
-<use Hybrid_LUBE_QR_AllConfidence_axisbank_LSTM.png>
-Package pdftex.def Info: Hybrid_LUBE_QR_AllConfidence_axisbank_LSTM.png  used o
-n input line 1281.
-(pdftex.def)             Requested size: 199.34116pt x 99.67094pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:adaniport
-s}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1281 \end{frame}
-                  
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1281.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[43
-
- <./CNN_hybrid_method_plot_AsianPaint_Method2.png> <./Hybrid_LUBE_QR_AllConfide
-nce_axisbank_LSTM.png>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1294--1294
-[][]  
- []
-
-<Statistical_Analysis_All_Methods_PINAW (1).jpg, id=1453, 843.15pt x 632.3625pt
->
-File: Statistical_Analysis_All_Methods_PINAW (1).jpg Graphic file (type jpg)
-<use Statistical_Analysis_All_Methods_PINAW (1).jpg>
-Package pdftex.def Info: Statistical_Analysis_All_Methods_PINAW (1).jpg  used o
-n input line 1294.
-(pdftex.def)             Requested size: 208.00327pt x 155.99638pt.
-<Statistical_Analysis_All_Methods_ACE (1).jpg, id=1454, 843.15pt x 632.3625pt>
-File: Statistical_Analysis_All_Methods_ACE (1).jpg Graphic file (type jpg)
-<use Statistical_Analysis_All_Methods_ACE (1).jpg>
-Package pdftex.def Info: Statistical_Analysis_All_Methods_ACE (1).jpg  used on 
-input line 1294.
-(pdftex.def)             Requested size: 208.00327pt x 155.99638pt.
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1294.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[44
-
- <./Statistical_Analysis_All_Methods_PINAW (1).jpg> <./Statistical_Analysis_All
-_Methods_ACE (1).jpg>]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1303--1303
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1303.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[45
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1316--1316
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1316.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[46
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1325--1325
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1325.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[47
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1334--1334
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1334.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[48
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1351--1351
-[][]  
- []
-
-No file main.bbl.
-
-Package natbib Warning: Empty `thebibliography' environment on input line 1351.
-
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1351.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[49
-
-]
-Overfull \hbox (1.81996pt too wide) in paragraph at lines 1358--1358
-[][]  
- []
-
-File: 1200px-NIT_Rourkela_Colour_Logo.svg.png Graphic file (type png)
-<use 1200px-NIT_Rourkela_Colour_Logo.svg.png>
-Package pdftex.def Info: 1200px-NIT_Rourkela_Colour_Logo.svg.png  used on input
- line 1358.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-
-Overfull \hbox (1.81996pt too wide) has occurred while \output is active
-[][] 
- []
-
-[50
 
 ]
 \tf@nav=\write6
@@ -4082,41 +2369,46 @@ Overfull \hbox (1.81996pt too wide) has occurred while \output is active
 
 Package natbib Warning: There were undefined citations.
 
+
+LaTeX Warning: Hook 'shipout/lastpage' executed on wrong page (1 not 16).
+               Rerun to correct this.
+
 (main.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
  ***********
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FA4E53596FA475923B06DC31F7B09E52;1310.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  52C7A3306BBA8A5565B75A9ECF6DE5F9;1047.
  ) 
 Here is how much of TeX's memory you used:
- 51285 strings out of 474486
- 1207753 string characters out of 5743754
- 1959542 words of memory out of 5000000
- 72490 multiletter control sequences out of 15000+600000
- 580033 words of font info for 108 fonts, out of 8000000 for 9000
+ 51123 strings out of 468081
+ 1181324 string characters out of 5440699
+ 1771474 words of memory out of 5000000
+ 78786 multiletter control sequences out of 15000+600000
+ 650033 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,123p,723b,1190s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\supri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\m
-atha5.pk> <C:\Users\supri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/d
-pi600\matha6.pk><C:/Users/supri/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb><C:/Users/supri/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmss10.pfb><C:/Users/supri/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/supri/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/supri/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/supri/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users
-/supri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb
-><C:/Users/supri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mssi8.pfb>
-Output written on main.pdf (50 pages, 3001593 bytes).
+ 128i,16n,123p,767b,1097s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Navigation17} has been referenced but does not exist, replaced by a fixed one
+
+ <C:\Users\biswa\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\matha8.pk> <C:\Users\biswa\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi657\matha10.pk> <C:\Users\biswa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss0900.pk><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmss10.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmss12.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmss17.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmss8.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmss9.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmssi10.pfb><E:/apps/mitek/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
+Output written on main.pdf (16 pages, 961722 bytes).
 PDF statistics:
- 1744 PDF objects out of 2073 (max. 8388607)
- 121 named destinations out of 1000 (max. 500000)
- 323 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 628 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
